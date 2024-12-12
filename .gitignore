@@ -1,0 +1,27 @@
+# Compiled binary files
+producer
+consumer
+
+# Object files
+*.o
+
+# Backup files
+*~
+*.bak
+*.swp
+
+# Logs and receipts
+receipt.txt
+
+# Debug files
+*.log
+*.out
+
+# Temporary files
+/tmp
+*.temp
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
